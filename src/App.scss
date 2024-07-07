@@ -1,0 +1,17 @@
+body {
+  background-image: url('./assets/images/table-background.jpg');
+  background-repeat: no-repeat;
+}
+
+.table-container {
+  margin-top: 96px;
+}
+
+
+.scroll-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 13px;
+  padding: 10px;
+  cursor: pointer;
+}
