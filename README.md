@@ -84,24 +84,51 @@ The application includes a clickable "scroll to top" button that appears when th
 - |----> mockData =====> `Artificially generated data that simulates real data for testing`
 
 
-Write a data table component with these features:
+
+
+
+
+
+
+
+
+
+# STATUS UPDATE
 
 `Support TypeScript. - Status Done`
+
 `Support pagination. - Status Done`
+
 `Support page size. - Status Done`
+
 `Support simple search (so we can just type a query and filter rows). - Status Done`
+
 `Support column customization. - Status Done`
+
 `Support sort fields. - Status Done`
+
 `Support dark mode. - Status Done`
+
 `Write some examples to show your component’s features. - Status Done`
 
+
 General Requirements
+
 `Use ReactJS - Status Done`
+
 `Write necessary tests, but not with high coverage. - Status Done`
+
 `Remove all unused codes if you use a boilerplate or framework. - Status Done`
+
 `Write an instruction to run the project. - Status Done`
+
 `All pages and components should be responsive. - Status Done`
+
 `Do anything else that can impress us, but don’t overwork. - Status Done`
+
 `You should use a linter like PrettierJS or any others. - Status Done`
+
 `Don’t commit the .vscode or .idea directory. - Status Done`
+
 `Mention the required NodeJS version - Status Done`
+
